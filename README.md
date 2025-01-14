@@ -36,10 +36,12 @@ The CNN model was trained on a diverse dataset of plant leaf images with multipl
 - Integrate multi-language support for global reach.
 - Deploy the application on cloud platforms for scalability.
 
-![Home](https://github.com/user-attachments/assets/3d6ca446-b42a-4e5f-9b39-ac8cbc7c7b37)
+![Home](https://github.com/user-attachments/assets/3991961f-c4a5-4634-99df-b0f27c533a87)
 
-![Home2](https://github.com/user-attachments/assets/65ccc4e0-dec3-4a70-b7d4-b48431f36424)
+![Home2](https://github.com/user-attachments/assets/1f64be19-03e6-4086-b62e-28620)
 
-![Home3](https://github.com/user-attachments/assets/8134a140-ac26-456b-8a6c-c08b2f07c1a1)
+![Home3](https://github.com/user-attachments/assets/500a11e9-869f-49e7-9639-02e88809fcb2)
 
-![Screenshot (15)](https://github.com/user-attachments/assets/9483a988-2ad0-4943-942f-92881a203768)
+![Screenshot (15)](https://github.com/user-attachments/assets/0ecac0fb-4bd5-4436-874a-a16a82e27f16)
+
+
