@@ -18,22 +18,16 @@ Ensure you have the following installed:
 - Pillow
 - TorchVision
 
-To install all dependencies, run:
-```bash
-pip install -r requirements.txt
+![Home](https://github.com/user-attachments/assets/86b184d6-17bf-445e-8ef4-88318d052688)
 
-## How It Works
-1. **Upload an Image**: Users upload a clear image of a plant leaf.
-2. **Image Processing**: The image is preprocessed using OpenCV.
-3. **Prediction**: The CNN model analyzes the image and predicts the disease.
-4. **Results**: The application displays the disease name and provides prevention/treatment tips.
 
-## Model Details
-The CNN model was trained on a diverse dataset of plant leaf images with multiple disease categories. The architecture ensures high accuracy and generalizability across different plant types.
+![Home2](https://github.com/user-attachments/assets/86ac0473-0ff4-4745-bc1f-fc18214eb2f0)
 
-## Future Enhancements
-- Expand the dataset to include more plant species and diseases.
-- Integrate multi-language support for global reach.
-- Deploy the application on cloud platforms for scalability.
+
+![Home3](https://github.com/user-attachments/assets/336ec92b-b22b-4237-97e9-e25aafb50b75)
+
+
+![Screenshot (15)](https://github.com/user-attachments/assets/be1381ef-de54-4506-920a-31773cadddac)
+
 
 
