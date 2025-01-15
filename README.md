@@ -1,3 +1,10 @@
+## Download Large Files
+
+The ZIP file for this project is too large to host on GitHub.  
+You can download it from the following link:
+
+[Download ZIP file from Google Drive](https://drive.google.com/drive/folders/1iDiW1KXrykpTalu6xhpJsxg-GO335qjv?usp=sharing)
+
 # Krishi AI: Plant Disease Detection
 
 Krishi AI is a Flask-based web application that utilizes a Convolutional Neural Network (CNN) model to detect plant diseases from uploaded images. The application provides detailed information about the identified disease and suggests supplements for effective management.
